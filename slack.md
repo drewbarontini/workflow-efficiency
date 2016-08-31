@@ -10,7 +10,7 @@ This one is kind of obvious, but just set it up this way. You don't want to get 
 
 ![](https://cloud.githubusercontent.com/assets/30208/18128043/d28e21fc-6f51-11e6-8827-dd095ed4ba36.png)
 
-If you're working around other people, or screencasting, this is a good one to have for privacy reasons.
+If you're working around other people, or screencasting, this is a good one to uncheck for privacy reasons.
 
 ![](https://cloud.githubusercontent.com/assets/30208/18128118/41ebc25c-6f52-11e6-8d88-f1aaf20d8722.png)
 
