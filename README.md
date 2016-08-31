@@ -1,2 +1,3 @@
-# workflow-efficiency
-A documentation library for workflow efficiency.
+# Workflow Efficiency
+
+> A documentation library for workflow efficiency.
