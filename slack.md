@@ -4,7 +4,7 @@
 
 These settings are found under `Preferences > Notifications`.
 
-![](https://cloud.githubusercontent.com/assets/30208/18127995/9fc53cb0-6f51-11e6-8674-3cf4de036975.png)
+![](https://cloud.githubusercontent.com/assets/30208/18127995/9fc53cb0-6f51-11e6-8674-3cf4de036975.png =200)
 
 This one is kind of obvious, but just set it up this way. You don't want to get notifications for everything or nothing. You aren't a Sith Lord.
 
